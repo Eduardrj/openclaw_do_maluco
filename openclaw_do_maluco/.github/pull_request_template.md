@@ -1,0 +1,6 @@
+- [ ] Runbook atualizado (se mudou infra/config)
+- [ ] Variáveis de ambiente documentadas
+- [ ] Script de snapshot testado em staging
+- [ ] Testes básicos executados (se aplicável)
+- [ ] Secrets/keys revisados e não incluídos no PR
+- [ ] Aprovação de um mantenedor
